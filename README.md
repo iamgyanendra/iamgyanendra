@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science
-- 💼 &nbsp; Working as a Fullstack Developer  Associate at Algobitz Private Limited.
+- 💼 &nbsp; Working as a Fullstack Developer at Algobitz Private Limited.
 - 🌱 &nbsp; Learning more about Web Devlopement, Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Master of Computer Applications (MCA)
 
